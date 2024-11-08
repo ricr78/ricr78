@@ -1,1 +1,1 @@
-<img src="C:\Users\ricar\Downloads\computo.jpg">
+![info]("C:\Users\ricar\Downloads\computo.jpg")
