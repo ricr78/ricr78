@@ -1,1 +1,1 @@
-<div style="color: white;">Ricardo</div>
+<img src="C:\Users\ricar\Downloads\computo.jpg">
