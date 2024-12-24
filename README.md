@@ -128,9 +128,7 @@
     <div class="profile-container">
         <!-- Header -->
         <div class="header">
-            <img src="https://via.placeholder.com/120" alt="Foto de perfil">
-            <h1>Juan Pérez</h1>
-            <p>Desarrollador Web | Entusiasta del Diseño</p>
+            
         </div>
 
         <!-- Información Personal -->
