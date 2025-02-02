@@ -8,7 +8,7 @@
 </head>
 <body>
     <div style="background-color: #ffc107;">
-        <h2>Welcome to the jungle</h2>
+        <h2>Welcome </h2>
     </div>
 </body>
 </html>
