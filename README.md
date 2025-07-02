@@ -1,4 +1,4 @@
-# ![Banner](Banner-ricar.png) <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif?cid=ecf05e47yl0x7edgm0bgobtyk61gs2bpjmkg8423ntivauc2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"> Bienvenido al GitHub de Ricardo 
+# ![Banner](banner-r.png) <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif?cid=ecf05e47yl0x7edgm0bgobtyk61gs2bpjmkg8423ntivauc2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"> Bienvenido al GitHub de Ricardo 
 
 
 
