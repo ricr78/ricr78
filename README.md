@@ -27,8 +27,11 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 # Proyectos destacados
 ### Simulación de veterinaria
 **Este proyecto se realizo con el proposito de mejorar el sistema de las veterinarias que mantienen sus registros manualmente**
-[Ver repositorio](https://github.com/ricr78/PetVida)
+[Ver repositorio](https://github.com/ricr78/PetVidaCare)
 
+### Veterinaria gestion de usuarios
+**Mismo proyecto realizado con diferente lenguaje de programación, que gestiona usuarios cuando se realizan citas y consultas  ala veterinaria**
+[Ver repositorio](https://github.com/ricr78/PetVidaP)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3333ff&height=80&section=footer"/>
 
 
