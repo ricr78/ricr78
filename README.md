@@ -1,5 +1,5 @@
 # ![Banner](banner-r.png) <img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif?cid=ecf05e47yl0x7edgm0bgobtyk61gs2bpjmkg8423ntivauc2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"> 
-#  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=100&section=header"/>        Bienvenido al GitHub de Ricardo 
+#  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=100&section=header"/>        Bienvenido a mi GitHub 
 
 
 **Soy creador de apicaciones web, con habilidades tecnicas y desarrollo web, con el proposito de seguir creciendo con nuevas habilidades adquiridas, teniendo el proposito 
@@ -8,11 +8,17 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 
 # Habilidades
   
-[![Mis habilidades](https://skillicons.dev/icons?i=js,html,css,cs,java,swift,php,py,ruby,bash,bootstrap,dotnet,mysql,mongodb,sublime,ps,ai,discord,github)](https://skillicons.dev)
+[![Mis habilidades](https://skillicons.dev/icons?i=js,html,css,cs,java,swift,php,py,ruby,bash,git,bootstrap,dotnet,mysql,mongodb,sublime,visualstudio,vscode,ps,ai,discord,github)](https://skillicons.dev)
+
+
+# Redes
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-hern%C3%A1ndez-5b4475282/)
 
 
 
-![github-contribution-grid-snake](https://github.com/user-attachments/assets/198a954f-d963-4b58-ab6c-7adca29c5bba)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3333ff&height=80&section=footer"/>
+
+
 
 
 
