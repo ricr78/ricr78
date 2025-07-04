@@ -21,8 +21,8 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dontcardo_)
 
 # Stats
-![Tu Nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Tu Nombre GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Proyectos destacados
 ### Simulación de veterinaria
