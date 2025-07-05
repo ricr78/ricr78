@@ -5,6 +5,11 @@
 **Soy creador de apicaciones web, con habilidades tecnicas y desarrollo web, con el proposito de seguir creciendo con nuevas habilidades adquiridas, teniendo el proposito 
 de seguir adquirir conocimiento y poder encajar en las grandes empresas que destacan por su rigides y aspirante a crear nuevos proyectos propios que puedan destacar al nivel de ellas
 conocedor de varias tecnológias, con el cual tengo como objetivo destacar como programador Jr o Senior.**
+> Motivación,
+> Ética,
+> Responsable,
+> aprendiz rapido
+
 # Disponibilidad 
 
 
