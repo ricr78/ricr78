@@ -41,10 +41,12 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 
 
 # Proyectos de consola
-**Consiste en proyectos de consolas para la practica conitnua, y no dejar de programar cuando algo te apasiona!**
+**Consiste en proyectos de consolas para la practica conitnua, y no dejar de programar cuando algo te apasiona!**  
+
 **__Este proyecto se basa en la creacion de un login por consola y que permite tratar de entender de como funciona en el entorno, con
 la simulación de una calculadora, esta creado con objetos sobre la POO__**
 [Ver repositorio](https://github.com/ricr78/Login_with_Math)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3333ff&height=80&section=footer"/>
 
 
