@@ -33,7 +33,7 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 # Stats
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=compact&theme=dark&progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 # Proyectos destacados
 ### Simulación de veterinaria
 **Este proyecto se realizo con el proposito de mejorar el sistema de las veterinarias que mantienen sus registros manualmente**
