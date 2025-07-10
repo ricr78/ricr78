@@ -25,7 +25,9 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 
 
 # Contacto
-**Email: ricarhernan1996@gmail.com**    
+|Email|ricarhernan1996@gmail.com|
+|-----|-------------------------|
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-hern%C3%A1ndez-5b4475282/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ricardo__.96/)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dontcardo_)
