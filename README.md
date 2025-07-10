@@ -17,6 +17,11 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 
   # Habilidades
 [![Mis habilidades](https://skillicons.dev/icons?i=js,html,css,cs,java,swift,php,py,ruby,bash,git,bootstrap,dotnet,mysql,mongodb,sublime,visualstudio,vscode,ps,ai,discord,github)](https://skillicons.dev)
+|Descrption|  Herramientas|
+|-----------|------------------|
+|Backend| [![Mis habilidades](https://skillicons.dev/icons?i=js,cs,java,swift,php,py,ruby)](https://skillicons.dev)|
+|||
+
 
 
 # Contacto
