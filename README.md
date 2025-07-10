@@ -31,10 +31,10 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dontcardo_)
 
 # Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=radical)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=compact&theme=dark&progress=true)](https://github.com/anuraghazra/github-readme-stats)
 # Proyectos destacados
 ### Simulación de veterinaria
 **Este proyecto se realizo con el proposito de mejorar el sistema de las veterinarias que mantienen sus registros manualmente**
