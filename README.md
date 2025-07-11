@@ -16,11 +16,17 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
   ![Disponibilidad](https://img.shields.io/badge/Disponible_para_trabajo-✅-brightgreen?style=for-the-badge)
 
   # Habilidades
-[![Mis habilidades](https://skillicons.dev/icons?i=js,html,css,cs,java,swift,php,py,ruby,bash,git,bootstrap,dotnet,mysql,mongodb,sublime,visualstudio,vscode,ps,ai,discord,github)](https://skillicons.dev)
+
 |Descrption|  Herramientas|
 |-----------|------------------|
 |Backend| [![Mis habilidades](https://skillicons.dev/icons?i=js,cs,java,swift,php,py,ruby)](https://skillicons.dev)|
-|||
+|Base de datos|[![Mis habilidades](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)|
+|Diseño web|[![Mis habilidades](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)|
+|Diseño gráfico|[![Mis habilidades](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)|
+|Editores|[![Mis habilidades](https://skillicons.dev/icons?i=sublime,visualstudio,vscode)](https://skillicons.dev)|
+|Comunicación|[![Mis habilidades](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)|
+|Otros|[![Mis habilidades](https://skillicons.dev/icons?i=git,dotnet,bash,arduino)](https://skillicons.dev)|
+|En aprendiz|[![Mis habilidades](https://skillicons.dev/icons?i=linux,nodejs,ts)](https://skillicons.dev)|
 
 
 
