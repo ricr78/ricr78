@@ -39,17 +39,22 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dontcardo_)
 
 # Stats
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=compact&theme=dark&progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=normal&theme=dark&progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=dark&border_color=e4e2e2&cache_seconds=21600&rank_icon=percentile&line_height=25&text_bold=true&ring_color=2f80ed&description_lines_count=null&show_owner=true&) 
+
+
 
 
 # Proyectos destacados
 ### Simulación de veterinaria
 **Este proyecto se realizo con el proposito de mejorar el sistema de las veterinarias que mantienen sus registros manualmente**
-[Ver repositorio](https://github.com/ricr78/PetVidaCare)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaCare&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Veterinaria gestion de usuarios
 **Mismo proyecto realizado con diferente lenguaje de programación, que gestiona usuarios cuando se realizan citas y consultas  ala veterinaria**
-[Ver repositorio](https://github.com/ricr78/PetVidaP)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaP&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Proyectos de consola
@@ -57,7 +62,8 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 
 **__Este proyecto se basa en la creación de un login por consola y que permite tratar de entender de como funciona en el entorno, con
 la simulación de una calculadora, esta creado con objetos sobre la POO__**
-[Ver repositorio](https://github.com/ricr78/Login_with_Math)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=Login_with_Math&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3333ff&height=80&section=footer"/>
 
