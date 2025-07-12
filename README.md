@@ -42,8 +42,16 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=normal&theme=dark&progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=dark&border_color=e4e2e2&cache_seconds=21600&rank_icon=percentile&line_height=25&text_bold=true&ring_color=2f80ed&description_lines_count=null&show_owner=true&) 
 
-
-
+# Repositorios
+<a href="https://github.com/ricr78/PetVidaP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaP&theme=dark" />
+</a>
+<a href="https://github.com/ricr78/PetVidaCare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaCare&theme=dark" />
+</a>
+<a href="https://github.com/ricr78/Login_with_Math">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=Login_with_Math&theme=dark" />
+</a>
 
 # Proyectos destacados
 ### Simulación de veterinaria
