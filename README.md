@@ -68,13 +68,7 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaP&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Proyectos de consola
-**Consiste en proyectos de consolas para la practica continua, y no dejar de programar cuando algo te apasiona!**  
-
-**__Este proyecto se basa en la creación de un login por consola y que permite tratar de entender de como funciona en el entorno, con
-la simulación de una calculadora, esta creado con objetos sobre la POO__**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=Login_with_Math&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+ 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3333ff&height=80&section=footer"/>
 
