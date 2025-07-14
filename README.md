@@ -24,7 +24,7 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 |Diseño web|[![Mis habilidades](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)|
 |Diseño gráfico|[![Mis habilidades](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)|
 |Editores|[![Mis habilidades](https://skillicons.dev/icons?i=sublime,visualstudio,vscode)](https://skillicons.dev)|
-|Comunicación|[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com//users/vana2._60845)|
+|Comunicación|[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com//users/vana2._60845)  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ricr78)|
 |Otros|[![Mis habilidades](https://skillicons.dev/icons?i=git,dotnet,bash,arduino)](https://skillicons.dev)|
 |En aprendiz|[![Mis habilidades](https://skillicons.dev/icons?i=linux,nodejs,ts,kali,reack)](https://skillicons.dev)|
 
