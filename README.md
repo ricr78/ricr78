@@ -26,7 +26,7 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 |Editores|[![Mis habilidades](https://skillicons.dev/icons?i=sublime,visualstudio,vscode)](https://skillicons.dev)|
 |Comunicación|[![Mis habilidades](https://skillicons.dev/icons?i=discord,github)](https://skillicons.dev)|
 |Otros|[![Mis habilidades](https://skillicons.dev/icons?i=git,dotnet,bash,arduino)](https://skillicons.dev)|
-|En aprendiz|[![Mis habilidades](https://skillicons.dev/icons?i=linux,nodejs,ts)](https://skillicons.dev)|
+|En aprendiz|[![Mis habilidades](https://skillicons.dev/icons?i=linux,nodejs,ts,kali,reack)](https://skillicons.dev)|
 
 
 
