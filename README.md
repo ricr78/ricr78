@@ -55,6 +55,9 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 <a href="https://github.com/ricr78/CRUDLINQ">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=CRUDLINQ&theme=dark" />
 </a>
+<a href="https://github.com/ricr78/Palindromos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=Palindromos&theme=dark" />
+</a>
 
 # Proyectos destacados
 ### Simulación de veterinaria
