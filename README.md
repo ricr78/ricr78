@@ -59,6 +59,10 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=Palindromos&theme=dark" />
 </a>
 
+# Pinneds
+
+
+
 # Proyectos destacados
 ### Simulación de veterinaria
 **Este proyecto se realizo con el proposito de mejorar el sistema de las veterinarias que mantienen sus registros manualmente**
