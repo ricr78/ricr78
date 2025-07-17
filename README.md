@@ -61,7 +61,7 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 
 # Pinneds
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1e1335738819be906c3c502d06a8ee92&theme=dark&langs_count=normal&show_owner=true)](https://gist.github.com/ricr78/1e1335738819be906c3c502d06a8ee92/)
-
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1e1335738819be906c3c502d06a8ee92&theme=dark&langs_count=normal&show_owner=true)](https://gist.github.com/ricr78/1e1335738819be906c3c502d06a8ee92/)
 
 # Proyectos destacados
 ### Simulación de veterinaria
