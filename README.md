@@ -25,7 +25,8 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 |Diseño gráfico|[![Mis habilidades](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)|
 |Editores|[![Mis habilidades](https://skillicons.dev/icons?i=sublime,visualstudio,vscode)](https://skillicons.dev)|
 |Comunicación|[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com//users/vana2._60845)  [![Github](https://skillicons.dev/icons?i=github)](https://github.com/ricr78)  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/dontcardo_)  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/ricardo__.96) [![Discord](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ricardo-hern%C3%A1ndez-5b4475282/)|
-|Otros|[![Mis habilidades](https://skillicons.dev/icons?i=git,dotnet,bash,arduino)](https://skillicons.dev)|
+|Otros|[![Mis habilidades](https://skillicons.dev/icons?i=dotnet,bash,arduino)](https://skillicons.dev)|
+|Control de versiones|[![Mis habilidades](https://skillicons.dev/icons?i=git)](https://skillicons.dev)|
 |En aprendiz|[![Mis habilidades](https://skillicons.dev/icons?i=linux,nodejs,ts,kali,reack)](https://skillicons.dev)|
 
 
