@@ -19,7 +19,7 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 
 |Descrption|  Herramientas|
 |-----------|------------------|
-|Backend| [![Mis habilidades](https://skillicons.dev/icons?i=js,cs,java,swift,php,py,ruby)](https://skillicons.dev)|
+|Backend| [![Mis habilidades](https://skillicons.dev/icons?i=js,cs,java,swift,php,py)](https://skillicons.dev)|
 |Base de datos|[![Mis habilidades](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev)|
 |Diseño web|[![Mis habilidades](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)|
 |Diseño gráfico|[![Mis habilidades](https://skillicons.dev/icons?i=ps,ai)](https://skillicons.dev)|
@@ -81,6 +81,7 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3333ff&height=80&section=footer"/>
+
 
 
 
