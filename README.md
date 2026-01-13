@@ -42,45 +42,35 @@ conocedor de varias tecnológias, con el cual tengo como objetivo destacar como 
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dontcardo_)
 
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricr78&layout=normal&theme=dark&progress=true)](https://github.com/anuraghazra/github-readme-stats)
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricr78&show_icons=true&theme=dark&border_color=e4e2e2&cache_seconds=21600&rank_icon=percentile&line_height=25&text_bold=true&ring_color=2f80ed&description_lines_count=null&show_owner=true&) 
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ricr78&layout=normal&theme=dark&progress=true)](https://github.com/anuraghazra/github-readme-stats)
+![Ricardo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ricr78&show_icons=true&theme=dark&border_color=e4e2e2&cache_seconds=21600&rank_icon=percentile&line_height=25&text_bold=true&ring_color=2f80ed&description_lines_count=null&show_owner=true&) 
 
-# Repositorios
-<a href="https://github.com/ricr78/PetVidaP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaP&theme=dark" />
-</a>
-<a href="https://github.com/ricr78/PetVidaCare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaCare&theme=dark" />
-</a>
-<a href="https://github.com/ricr78/Login_with_Math">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=Login_with_Math&theme=dark" />
-</a>
-<a href="https://github.com/ricr78/CRUDLINQ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=CRUDLINQ&theme=dark" />
-</a>
-<a href="https://github.com/ricr78/Palindromos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=Palindromos&theme=dark" />
-</a>
+# Repositorios Destacados
+| | |
+| --- | --- |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricr78&repo=PetVidaP&theme=dark)](https://github.com/ricr78/PetVidaP) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricr78&repo=PetVidaCare&theme=dark)](https://github.com/ricr78/PetVidaCare) |
+| [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricr78&repo=Login_with_Math&theme=dark)](https://github.com/ricr78/Login_with_Math) | [![Repo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricr78&repo=CRUDLINQ&theme=dark)](https://github.com/ricr78/CRUDLINQ) |
 
 # Pinneds
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=1e1335738819be906c3c502d06a8ee92&theme=dark&langs_count=normal&show_owner=true)](https://gist.github.com/ricr78/1e1335738819be906c3c502d06a8ee92/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f836c38d2ecdea6844ee6ae41c2eecb0&theme=dark&langs_count=normal&show_owner=true)](https://gist.github.com/ricr78/f836c38d2ecdea6844ee6ae41c2eecb0/)
+[![Gist Card](https://github-readme-stats-sigma-five.vercel.app/api/gist?id=1e1335738819be906c3c502d06a8ee92&theme=dark&langs_count=normal&show_owner=true)](https://gist.github.com/ricr78/1e1335738819be906c3c502d06a8ee92/)
+[![Gist Card](https://github-readme-stats-sigma-five.vercel.app/api/gist?id=f836c38d2ecdea6844ee6ae41c2eecb0&theme=dark&langs_count=normal&show_owner=true)](https://gist.github.com/ricr78/f836c38d2ecdea6844ee6ae41c2eecb0/)
 
 # Proyectos destacados
 ### Simulación de veterinaria
 **Este proyecto se realizo con el proposito de mejorar el sistema de las veterinarias que mantienen sus registros manualmente**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaCare&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricr78&repo=PetVidaCare&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Veterinaria gestion de usuarios
 **Mismo proyecto realizado con diferente lenguaje de programación, que gestiona usuarios cuando se realizan citas y consultas  ala veterinaria**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricr78&repo=PetVidaP&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ricr78&repo=PetVidaP&show_owner=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:3333ff&height=80&section=footer"/>
+
 
 
 
